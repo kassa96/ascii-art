@@ -1,4 +1,4 @@
-Rôle
+Présentation
 ASCII ART est un programme qui permet d'afficher les caractères ASCII sous forme de représentation graphique. Nous avons trois types de bannières standard, shadow, thinkertoy.
 
 Utilisation
